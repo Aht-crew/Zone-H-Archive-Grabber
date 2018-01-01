@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # Written by 3XPL0173R~X3D
+# Follow @ github.com/TheChoyon for more scripts
 # Special thanks to google cache service
 # TeaM_CC (Cyber Commandos)
 # If you are a programmer, you can change this code to grab from onholds too!
