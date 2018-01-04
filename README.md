@@ -1,4 +1,4 @@
-# Zone-H-Archive-Grabber
+# Zone-H.org Archive Grabber/Scanner
 A handy script programmed to collect domains from Zone-H.org notifier archive
 
 Limitations:
